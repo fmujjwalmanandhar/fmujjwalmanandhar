@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fmujjwalmanandhar
-- 👀 I’m interested in React Native,JS, Kotlin, Flutter
+- 👀 I’m interested in React Native, JS, Kotlin, Flutter
 - 🌱 I’m currently learning Kotlin, Flutter
 - 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me ujjwal.manandhar@fusemachines.com
